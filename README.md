@@ -32,4 +32,4 @@ Der Dienst kann Links zu anderen Websites oder Anwendungen enthalten. Diese Drit
 Die Datenschutzerklärung kann in Zukunft aktualisiert werden. Besuche diese Seite regelmäßig, um über die Bedingungen informiert zu sein, denen du durch die Nutzung unserer Dienste zustimmst.
 
 **Änderungsprotokoll** <br />
-- 1. November 2024 - Veröffentlichung
+- November 2024 - Veröffentlichung
